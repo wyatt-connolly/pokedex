@@ -34,7 +34,13 @@ This project was made using the follow technologies:
 
 Data fetching from an API and displaying that data in an orginized manner. That was the goal of this project. Most if not all projects that use React will have to fetch data at some point. That's just how web applications work. Yes, building a Pokedex is a cliche project, but it's a great project to learn how to data fetch. 
 
-I learned how Next.js simplifies building web apps compared to create-react-app. SSR and SSG allows you to build a website based on what you want to build. Have a page that needs rendering 
+One challenge that I ran into the Pokedex project was choosing between SSR or SSG in my components. The two terms were confusing to me at first because I was only used to client side.  I chose static-site generation in the index.js so that the homepage would load faster, improving customer retention. Then I chose SSR for the individual pokemon pages since I used query parameters.
+
+So what did I learn from building this project? I learned:
+> How the React DOM works
+> Fetching data from the Pokedex API by using the "useEffect" hook.
+> Asynchronous functions.
+> Functional component lifecycle
 
 I also dipped my hands into Tailwind for this project. After building the pokedex, I realized that I don't like the Tailwind approach. In my opinion, CSS should be seperated from JS. It makes the code unreadable and cramped. For small projects, Tailwind is alright because it streamlines writing CSS. But for big projects, I can't see myself using it. I would much prefer MUI, CSS modules or styled-components. 
 
