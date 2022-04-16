@@ -29,7 +29,7 @@ This project was made using the follow technologies:
 - SSR (server-side rendering) and SSG (static site generation)
 - Pagination
 - CSS Grid and responsive UI
-- 
+
 # :pencil: Lessons
 
 Data fetching from an API and displaying that data in an orginized manner. That was the goal of this project. Most if not all projects that use React will have to fetch data at some point. That's just how web applications work. Yes, building a Pokedex is a cliche project, but it's a great project to learn how to data fetch. 
