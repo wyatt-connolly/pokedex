@@ -46,10 +46,10 @@ I also dipped my hands into Tailwind for this project. After building the pokede
 
 # :crystal_ball: Visual Demo
 
-<**Homepage**
+> **Homepage**
 
 ![PPm686f](https://user-images.githubusercontent.com/88942814/163649348-a130903e-e86a-4cb4-9062-d5f0e30e58ac.png)
 
-<**Pokemon Info**
+> **Pokemon Info**
 
 ![t2DnQje](https://user-images.githubusercontent.com/88942814/163656609-32859e6b-8e3b-45fa-8f44-62baaa34e660.png)
