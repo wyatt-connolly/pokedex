@@ -2,19 +2,15 @@
 
 > Pokedex made with Next.js
 
-![PPm686f](https://user-images.githubusercontent.com/88942814/163649348-a130903e-e86a-4cb4-9062-d5f0e30e58ac.png)
+https://user-images.githubusercontent.com/88942814/168428204-c3b5095a-d2da-4f6a-98df-17a1d2ee2a64.mp4
 
 # 📌 Table of Contents
 
-- [Demo Website](#eyes-demo-website)
+- [Demo Website](https://pokedex-self-mu.vercel.app/)
 - [Technologies](#computer-technologies)
 - [Features](#rocket-features)
 - [Lessons](#pencil-lessons)
 - [Visual Demo](#crystal_ball-visual-demo)
-
-# :eyes: Demo Website
-
-:point_right: demo: https://pokedex-self-mu.vercel.app/
 
 # :computer: Technologies
 
