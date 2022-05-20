@@ -60,4 +60,5 @@ I also dipped my hands into Tailwind for this project. After building the Pokede
 
 # :link: License
 
-Design and assets belong to [medium.com](https://www.medium.com
+Design and assets belong to [pokemon.com](https://www.pokemon.com)
+
